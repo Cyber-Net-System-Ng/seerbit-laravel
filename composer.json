@@ -19,7 +19,7 @@
     ],
     "require": {
         "php": "^8.0",
-        "illuminate/support": "~8|~9",
+        "illuminate/support": "~8|~9|~10",
         "seerbit/seerbit-php-sdk":"^2.3.2"
     },
     "require-dev": {
